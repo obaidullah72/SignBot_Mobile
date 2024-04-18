@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017989211610",
+    "project_id": "signbot-5e77a",
+    "storage_bucket": "signbot-5e77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017989211610:android:545a663953b9397c940ce3",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHjZXYZ9YX6-Lj01euYbG7Mdj3RriG7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
